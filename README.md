@@ -48,24 +48,7 @@ file.take(10).foreach(println)
 
 Acceder al [Spark Master: http://localhost:8080](http://localhost:8080) y [SPARK-UI: http://localhost:4040](http://localhost:4040).
 
-### Troubleshooting
 
-Si los jobs mueren (`KILLED`) y no se completan puede ser debido a la memória disponible para Docker, **aumente la memoria > 8Gb** al proceso de Docker:
-
-![](./images/docker-advanced-config.jpg)
-
-# Siga leyendo
-* [Introducción a Scala](scala/README.md)
-* [Jupyter Notebook (Python / pySpark)](README-pyspark.md)
-
-## Agradecimientos
-* Juan Pampliega ([MuttData](https://www.muttdata.ai/)): expandir y actualizar el ejemplo de [Spark Streaming](README-streaming.md)
-* Pedro Ferrari ([MuttData](https://www.muttdata.ai/)): crear el notebook de [pySpark con Machine Learning](./jupyter/notebook/titanic/)
-
-## Sobre
-Gustavo Arjones &copy; 2017-2020  
-[arjon.es](https://arjon.es) | [LinkedIn](http://linkedin.com/in/arjones/) | [Twitter](https://twitter.com/arjones)
-# ExamenFinalTEBD
 # ExamenFinalTEDB
 "# EFinalJupyterHV" 
 "# ExamenFinalSparkJupyter" 
